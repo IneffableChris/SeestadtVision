@@ -1,6 +1,7 @@
 # SeestadtVision 🚀
 Seestadt AR Project WS2021
-![image](https://user-images.githubusercontent.com/50044434/171060407-94877902-b910-4e0c-92c5-5ab3d20f3c9a.png)
+
+![Bild1](https://user-images.githubusercontent.com/50044434/171060534-15f61a9e-ac62-4e7e-8b8b-6b8bde5c5aac.jpg)
 
 
 ## by Christoph Götz
