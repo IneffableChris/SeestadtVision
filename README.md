@@ -1,5 +1,7 @@
 # SeestadtVision 🚀
 Seestadt AR Project WS2021
+![image](https://user-images.githubusercontent.com/50044434/171060407-94877902-b910-4e0c-92c5-5ab3d20f3c9a.png)
+
 
 ## by Christoph Götz
 
@@ -40,10 +42,17 @@ You can read more about the different settings and options when building the app
 While using this mode, users can choose of a set of objects and place them, by using AR-technology, in the real world. 
 Therefore, users could then screenshot their result and express how they would like a certain spot in the city to look like. 
 
+![image](https://user-images.githubusercontent.com/50044434/171060387-57ae6c30-8a61-47b9-ad2b-df3ed4dc7b0e.png)
+
+
 - AR-Informationmode
 
 By using the AR-informationmode, information can be placed on a map in Unity, which then gets displayed on the app when opening this mode. 
 One possible use-case would be to show users information about the different street-names, about opening hours of certain buildings, and so on.
+
+![image](https://user-images.githubusercontent.com/50044434/171060365-b9e78748-5d41-4375-a0a8-d8d1b25f8b29.png)
+![image](https://user-images.githubusercontent.com/50044434/171060373-fb744aad-c00a-4d7f-b95e-438bb0627fee.png)
+
 
 - AR Now/Future-Mode 
 
@@ -51,12 +60,14 @@ In this mode people can see how the city currently looks like and how it will lo
 Sadly, this mode needs correct images and data regarding those futuristic views, which is why the technology and development of the mode is done, while the images aren't set, due to lack of information.
 The images themselves can be switched easily though, which is why users don't need to be concerned at all.
 
+### Screenshots
 
-## Installation 🔥
+
+### Installation 🔥
 If you only want to use the application itself, it is enough to install the project .apk to your phone. 
 You are ready to start the application aftwards immediately. 
 
 Besides that, for developers, it is neccesarry to install the development environment "Unity", as explained in the beginning. 
 
-## Support
+### Support
 For support, email e51825978@student.tuwien.ac.at
