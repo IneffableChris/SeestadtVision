@@ -50,7 +50,6 @@ Therefore, users could then screenshot their result and express how they would l
 By using the AR-informationmode, information can be placed on a map in Unity, which then gets displayed on the app when opening this mode. 
 One possible use-case would be to show users information about the different street-names, about opening hours of certain buildings, and so on.
 
-![image](https://user-images.githubusercontent.com/50044434/171060365-b9e78748-5d41-4375-a0a8-d8d1b25f8b29.png)
 ![image](https://user-images.githubusercontent.com/50044434/171060373-fb744aad-c00a-4d7f-b95e-438bb0627fee.png)
 
 
