@@ -1,10 +1,8 @@
 # SeestadtVision 🚀
-Seestadt AR Project WS2021
+Seestadt AR Project WS2021 by Christoph Götz
 
 ![Bild1](https://user-images.githubusercontent.com/50044434/171060534-15f61a9e-ac62-4e7e-8b8b-6b8bde5c5aac.jpg)
 
-
-## by Christoph Götz
 
 The project focuses on offering the people living in the Urban Lakecity (Seestadt) in Vienna the possibillity to design the city themselves in a way and to express how they would like to redesign certain aspects.
 
