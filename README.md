@@ -4,7 +4,7 @@ Seestadt AR Project WS2021 by Christoph Götz
 ![Bild1](https://user-images.githubusercontent.com/50044434/171060534-15f61a9e-ac62-4e7e-8b8b-6b8bde5c5aac.jpg)
 
 
-The project focuses on offering the people living in the Urban Lakecity (Seestadt) in Vienna the possibillity to design the city themselves in their way and to express how they would like to redesign certain aspects.
+The project focuses on offering the people living in the Urban Lakecity (Seestadt) in Vienna the possibility to design the city themselves in their way and to express how they would like to redesign certain aspects.
 
 SeestadtVision is an Augmented-Reality (AR) application which doesn't just offer people the chance to express their imagination that way, but also features modes where all kinds of useful information can be found and where a Now/Future-view of buildings which currently get built is accessible. 
 All of the features of the application are easily adaptable, adjustable, and expandable.
