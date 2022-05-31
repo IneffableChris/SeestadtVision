@@ -22,7 +22,7 @@ You are ready to start the application afterwards immediately.
 Besides that, for developers, it is necesarry to install the development environment "Unity".
 
 ## Plugins, Tools & Assets
-To deploy and work on the software, following tools are needed: 
+To deploy and work on the software, the following tools are needed: 
 - ARKit (to deploy for iOs)
 - ARCore (to deploy for Android)
 - more specific tools, depending on the version of your phone - those might be installed automatically after switching to "Build for xyz" in the Build Settings. 
