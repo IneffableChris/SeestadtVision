@@ -14,6 +14,13 @@ You can freely download this project by pressing the "Code" & "Download"-Button 
 ## Unity 
 The code used here runs on Unity, last tested on version 2020.3.23f1.  For more information about the firmware see [https://unity.com/de/download]
 
+
+### Installation 🔥
+If you only want to use the application itself, it is enough to install the project .apk to your phone. 
+You are ready to start the application aftwards immediately. 
+
+Besides that, for developers, it is neccesarry to install the development environment "Unity".
+
 ## Plugins, Tools & Assets
 To deploy and work on the software, following tools are needed: 
 - ARKit (to deploy for iOs)
@@ -60,14 +67,6 @@ In this mode people can see how the city currently looks like and how it will lo
 Sadly, this mode needs correct images and data regarding those futuristic views, which is why the technology and development of the mode is done, while the images aren't set, due to lack of information.
 The images themselves can be switched easily though, which is why users don't need to be concerned at all and can freely adjust the mode to their needs.
 
-### Screenshots
-
-
-### Installation 🔥
-If you only want to use the application itself, it is enough to install the project .apk to your phone. 
-You are ready to start the application aftwards immediately. 
-
-Besides that, for developers, it is neccesarry to install the development environment "Unity", as explained in the beginning. 
 
 ### Support
 For support, email e51825978@student.tuwien.ac.at
