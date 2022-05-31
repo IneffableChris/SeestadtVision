@@ -9,6 +9,8 @@ The project focuses on offering the people living in the Urban Lakecity (Seestad
 SeestadtVision is an Augmented-Reality (AR) application which doesn't just offer people the chance to express their imagination that way, but also features modes where all kinds of useful information can be found and where a Now/Future-view of buildings which currently get built is accessible. 
 All of the features of the application are easily adaptable, adjustable and expandable.
 
+You can freely download this project by pressing the "Code" & "Download"-Button above.
+
 ## Unity 
 the code used here runs on Unity, last tested on version 2020.3.23f1.  For more information about the firmware see [https://unity.com/de/download]
 
