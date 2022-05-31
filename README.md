@@ -17,9 +17,9 @@ The code used here runs on Unity, last tested on version 2020.3.23f1.  For more 
 
 ### Installation 🔥
 If you only want to use the application itself, it is enough to install the project .apk to your phone. 
-You are ready to start the application aftwards immediately. 
+You are ready to start the application afterwards immediately. 
 
-Besides that, for developers, it is neccesarry to install the development environment "Unity".
+Besides that, for developers, it is necesarry to install the development environment "Unity".
 
 ## Plugins, Tools & Assets
 To deploy and work on the software, following tools are needed: 
