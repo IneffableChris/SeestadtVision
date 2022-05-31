@@ -12,10 +12,10 @@ All of the features of the application are easily adaptable, adjustable and expa
 You can freely download this project by pressing the "Code" & "Download"-Button above.
 
 ## Unity 
-the code used here runs on Unity, last tested on version 2020.3.23f1.  For more information about the firmware see [https://unity.com/de/download]
+The code used here runs on Unity, last tested on version 2020.3.23f1.  For more information about the firmware see [https://unity.com/de/download]
 
 ## Plugins, Tools & Assets
-to deploy and work on the software, following tools are needed: 
+To deploy and work on the software, following tools are needed: 
 - ARKit (to deploy for iOs)
 - ARCore (to deploy for Android)
 - more specific tools, depending on the version of your phone - those might be installed automatically after switching to "Build for xyz" in the Build Settings. 
@@ -58,7 +58,7 @@ One possible use-case would be to show users information about the different str
 
 In this mode people can see how the city currently looks like and how it will look like in the future, after the buildings are fully built. 
 Sadly, this mode needs correct images and data regarding those futuristic views, which is why the technology and development of the mode is done, while the images aren't set, due to lack of information.
-The images themselves can be switched easily though, which is why users don't need to be concerned at all.
+The images themselves can be switched easily though, which is why users don't need to be concerned at all and can freely adjust the mode to their needs.
 
 ### Screenshots
 
